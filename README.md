@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **School Management**
 
-- 🌱 I’m currently learning **Full stack**
+- 🌱 I’m enthusiast **Tech Learner for life**
 
-- 👯 I’m looking to collaborate on **Backend Systems**
+- 👯 I’m looking to collaborate on **Frontend & Backend Systems**
 
-- 🤝 I’m looking for help with **Full stack switch**
+- 🤝 I’m looking for help with **tech in general**
 
-- 💬 Ask me about **Java, Spring-boot**
+- 💬 Ask me about **HTML,CSS, JavaScript, React, Java, Spring-boot**
 
 - 📫 How to reach me **kumar.saurabh230797@gmail.com**
 
